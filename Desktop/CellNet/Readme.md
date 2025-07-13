@@ -1,5 +1,5 @@
 ## Scripts I'm working on:
-LSTM_baseline.ipynd - predicts same-looking picture for everything.
+LSTM_baseline.ipynd - good predictions, uploaded photos to the same dir. 
 
 CNN_baseline.ipynd - got good predictions, had same problem as LSTM but was fixed.
 
