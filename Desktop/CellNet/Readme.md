@@ -1,5 +1,5 @@
 ## Scripts I'm working on:
-LSTM_baseline.ipynd - good predictions, uploaded photos to the same dir. 
+LSTM_baseline.ipynd - good predictions, uploaded photos to the same dir. (what worked best so far is going back to unidirectional, adding self-attention and only predicting next 1 frame.)
 
 CNN_baseline.ipynd - got good predictions, had same problem as LSTM but was fixed.
 
